@@ -1,0 +1,16 @@
+N:\Visual Studio Proyects\AppPersonas\AppPersonas\AppPersonas\bin\Debug\netstandard2.0\AppPersonas.deps.json
+N:\Visual Studio Proyects\AppPersonas\AppPersonas\AppPersonas\bin\Debug\netstandard2.0\AppPersonas.dll
+N:\Visual Studio Proyects\AppPersonas\AppPersonas\AppPersonas\bin\Debug\netstandard2.0\ref\AppPersonas.dll
+N:\Visual Studio Proyects\AppPersonas\AppPersonas\AppPersonas\bin\Debug\netstandard2.0\AppPersonas.pdb
+N:\Visual Studio Proyects\AppPersonas\AppPersonas\AppPersonas\obj\Debug\netstandard2.0\AppPersonas.GeneratedMSBuildEditorConfig.editorconfig
+N:\Visual Studio Proyects\AppPersonas\AppPersonas\AppPersonas\obj\Debug\netstandard2.0\App.xaml.g.cs
+N:\Visual Studio Proyects\AppPersonas\AppPersonas\AppPersonas\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+N:\Visual Studio Proyects\AppPersonas\AppPersonas\AppPersonas\obj\Debug\netstandard2.0\AppPersonas.AssemblyInfoInputs.cache
+N:\Visual Studio Proyects\AppPersonas\AppPersonas\AppPersonas\obj\Debug\netstandard2.0\AppPersonas.AssemblyInfo.cs
+N:\Visual Studio Proyects\AppPersonas\AppPersonas\AppPersonas\obj\Debug\netstandard2.0\AppPersonas.csproj.CoreCompileInputs.cache
+N:\Visual Studio Proyects\AppPersonas\AppPersonas\AppPersonas\obj\Debug\netstandard2.0\XamlC.stamp
+N:\Visual Studio Proyects\AppPersonas\AppPersonas\AppPersonas\obj\Debug\netstandard2.0\AppPersonas.dll
+N:\Visual Studio Proyects\AppPersonas\AppPersonas\AppPersonas\obj\Debug\netstandard2.0\ref\AppPersonas.dll
+N:\Visual Studio Proyects\AppPersonas\AppPersonas\AppPersonas\obj\Debug\netstandard2.0\AppPersonas.pdb
+N:\Visual Studio Proyects\AppPersonas\AppPersonas\AppPersonas\obj\Debug\netstandard2.0\AppPersonas.csproj.AssemblyReference.cache
+N:\Visual Studio Proyects\AppPersonas\AppPersonas\AppPersonas\obj\Debug\netstandard2.0\DetailView.xaml.g.cs

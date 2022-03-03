@@ -1,0 +1,138 @@
+{
+  "format": 1,
+  "restore": {
+    "N:\\Visual Studio Proyects\\AppPersonas\\AppPersonas\\AppPersonas.iOS\\AppPersonas.iOS.csproj": {}
+  },
+  "projects": {
+    "N:\\Visual Studio Proyects\\AppPersonas\\AppPersonas\\AppPersonas.iOS\\AppPersonas.iOS.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "N:\\Visual Studio Proyects\\AppPersonas\\AppPersonas\\AppPersonas.iOS\\AppPersonas.iOS.csproj",
+        "projectName": "AppPersonas.iOS",
+        "projectPath": "N:\\Visual Studio Proyects\\AppPersonas\\AppPersonas\\AppPersonas.iOS\\AppPersonas.iOS.csproj",
+        "packagesPath": "C:\\Users\\ricar\\.nuget\\packages\\",
+        "outputPath": "N:\\Visual Studio Proyects\\AppPersonas\\AppPersonas\\AppPersonas.iOS\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ricar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "xamarinios10"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "xamarinios10": {
+            "projectReferences": {
+              "N:\\Visual Studio Proyects\\AppPersonas\\AppPersonas\\AppPersonas\\AppPersonas.csproj": {
+                "projectPath": "N:\\Visual Studio Proyects\\AppPersonas\\AppPersonas\\AppPersonas\\AppPersonas.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "xamarinios10": {
+          "dependencies": {
+            "Xamarin.Essentials": {
+              "target": "Package",
+              "version": "[1.7.1, )"
+            },
+            "Xamarin.Forms": {
+              "target": "Package",
+              "version": "[5.0.0.2337, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    },
+    "N:\\Visual Studio Proyects\\AppPersonas\\AppPersonas\\AppPersonas\\AppPersonas.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "N:\\Visual Studio Proyects\\AppPersonas\\AppPersonas\\AppPersonas\\AppPersonas.csproj",
+        "projectName": "AppPersonas",
+        "projectPath": "N:\\Visual Studio Proyects\\AppPersonas\\AppPersonas\\AppPersonas\\AppPersonas.csproj",
+        "packagesPath": "C:\\Users\\ricar\\.nuget\\packages\\",
+        "outputPath": "N:\\Visual Studio Proyects\\AppPersonas\\AppPersonas\\AppPersonas\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ricar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "Xamarin.Essentials": {
+              "target": "Package",
+              "version": "[1.7.1, )"
+            },
+            "Xamarin.Forms": {
+              "target": "Package",
+              "version": "[5.0.0.2337, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
